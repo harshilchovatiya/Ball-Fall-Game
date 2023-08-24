@@ -1,7 +1,7 @@
-# World of Ball Fall
+# World of Boll Fall
 
-Welcome to the Thrilling World of Ball Fall Game!
-Experience excitement and challenge like never before with our captivating Ball Fall Game. Get ready to immerse yourself in a mesmerizing adventure that combines strategy, coordination, and endless fun, all in one dynamic package.
+Welcome to the Thrilling World of Boll Fall Game!
+Experience excitement and challenge like never before with our captivating Boll Fall Game. Get ready to immerse yourself in a mesmerizing adventure that combines strategy, coordination, and endless fun, all in one dynamic package.
 
 # Hi, I'm Harshil Chovatiya! 👋
 
